@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.namhyungu.brickplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.namhyungu.brickplugin.MyBundle
 
 class MyApplicationService {
 
